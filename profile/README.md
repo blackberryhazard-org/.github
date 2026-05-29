@@ -23,7 +23,7 @@
 | Proyek | Deskripsi | Status |
 |--------|-----------|--------|
 | [⚫ Blackstar](https://github.com/blackberryhazard-org/blackstar) | Bot whatsapp dan telegram yang berjalan dalam satu environment | ![Active](https://img.shields.io/badge/Status-active-brightgreen?style=flat-square) |
-| [💰 TuruAPI](https://github.com/blackberryhazard-org/mending-turu) | REST API untuk orang ngantuk😴 | ![Active](https://img.shields.io/badge/Status-inactive-red?style=flat-square) |
+| [💰 TuruAPI](https://github.com/blackberryhazard-org/mending-turu) | REST API untuk orang ngantuk😴 | ![Active](https://img.shields.io/badge/Status-active-green?style=flat-square) |
 
 ---
 
@@ -31,9 +31,13 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono.js-orange?style=for-the-badge&logo=hono&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
