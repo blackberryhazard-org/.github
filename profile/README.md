@@ -57,9 +57,8 @@ Kami sangat terbuka untuk kontribusi dari siapa pun! Ikuti langkah berikut:
 
 | Saluran | Kontak |
 |---------|--------|
-| 📧 Email Umum | hello@nusatech.id |
-| 🔐 Security | security@nusatech.id |
-| 💼 Kemitraan | partner@nusatech.id |
+| 📧 Email Umum | cihuysomnia@proton.me |
+| 💼 Kemitraan | twinightwheel50@gmail.com |
 
 ---
 
