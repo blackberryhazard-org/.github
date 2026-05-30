@@ -5,6 +5,7 @@
 **Kami malas ngoding😴 dan pura pura menjadi perusahaan🤓**
 
 [![Website](https://img.shields.io/badge/🌐_Website-blackberryhazard.biz.id-blue?style=flat-square)](https://blackberryhazard.biz.id)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/company/124333949)
 
 </div>
 
