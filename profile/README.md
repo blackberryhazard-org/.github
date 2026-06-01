@@ -11,20 +11,29 @@
 
 ---
 
+## 👥 Meet Our Teams
+
+<p align="left">
+  <a href="https://github.com/indra87g"><img src="https://avatars.githubusercontent.com/indra87g?size=40" width="40" title="indra87g" alt="indra87g" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/archanaberry"><img src="https://avatars.githubusercontent.com/archanaberry?size=40" width="40" title="archanaberry" alt="archanaberry" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/ilhamjaya08"><img src="https://avatars.githubusercontent.com/ilhamjaya08?size=40" width="40" title="ilhamjaya08" alt="ilhamjaya08" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/rizko77"><img src="https://avatars.githubusercontent.com/rizko77?size=40" width="40" title="rizko77" alt="rizko77" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/paperalt"><img src="https://avatars.githubusercontent.com/paperalt?size=40" width="40" title="paperalt" alt="paperalt" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/iyayn-ajah"><img src="https://avatars.githubusercontent.com/iyayn-ajah?size=40" width="40" title="iyayn-ajah" alt="iyayn-ajah" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/jonfry1175"><img src="https://avatars.githubusercontent.com/jonfry1175?size=40" width="40" title="jonfry1175" alt="jonfry1175" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/MeongPuss"><img src="https://avatars.githubusercontent.com/MeongPuss?size=40" width="40" title="MeongPuss" alt="MeongPuss" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/AlbabRiziq"><img src="https://avatars.githubusercontent.com/AlbabRiziq?size=40" width="40" title="AlbabRiziq" alt="AlbabRiziq" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/Jee-vim"><img src="https://avatars.githubusercontent.com/Jee-vim?size=40" width="40" title="Jee-vim" alt="Jee-vim" style="border-radius: 50%; margin: 2px;"/></a>
+  <a href="https://github.com/malikzzzz"><img src="https://avatars.githubusercontent.com/malikzzzz?size=40" width="40" title="malikzzzz" alt="malikzzzz" style="border-radius: 50%; margin: 2px;"/></a>
+</p>
+
+---
+
 ## 👋 Tentang Kami
 
 **BlackberryHazard** adalah komunitas IT dan Gaming Indonesia, dan ini adalah organisasi github komunitas kami yang dibuat sebagai tempat bagi para anggota komunitas untuk "roleplay" seolah kami adalah sebuah perusahaan teknologi open source😹👈
 
 > _"Kode yang baik bukan hanya yang berjalan — tapi yang memberi MBG."_
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek | Deskripsi | Status |
-|--------|-----------|--------|
-| [⚫ Blackstar](https://github.com/blackberryhazard-org/blackstar) | Bot whatsapp dan telegram yang berjalan dalam satu environment | ![Active](https://img.shields.io/badge/Status-active-brightgreen?style=flat-square) |
-| [💰 TuruAPI](https://github.com/blackberryhazard-org/mending-turu) | REST API untuk orang ngantuk😴 | ![Active](https://img.shields.io/badge/Status-active-green?style=flat-square) |
 
 ---
 
