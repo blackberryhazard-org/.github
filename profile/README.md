@@ -23,7 +23,6 @@
   <a href="https://github.com/jonfry1175"><img src="https://avatars.githubusercontent.com/jonfry1175?size=40" width="40" title="jonfry1175" alt="jonfry1175" style="border-radius: 50%; margin: 2px;"/></a>
   <a href="https://github.com/MeongPuss"><img src="https://avatars.githubusercontent.com/MeongPuss?size=40" width="40" title="MeongPuss" alt="MeongPuss" style="border-radius: 50%; margin: 2px;"/></a>
   <a href="https://github.com/AlbabRiziq"><img src="https://avatars.githubusercontent.com/AlbabRiziq?size=40" width="40" title="AlbabRiziq" alt="AlbabRiziq" style="border-radius: 50%; margin: 2px;"/></a>
-  <a href="https://github.com/Jee-vim"><img src="https://avatars.githubusercontent.com/Jee-vim?size=40" width="40" title="Jee-vim" alt="Jee-vim" style="border-radius: 50%; margin: 2px;"/></a>
   <a href="https://github.com/malikzzzz"><img src="https://avatars.githubusercontent.com/malikzzzz?size=40" width="40" title="malikzzzz" alt="malikzzzz" style="border-radius: 50%; margin: 2px;"/></a>
 </p>
 
