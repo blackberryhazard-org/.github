@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-blackberryhazard.biz.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blackberryhazard.biz.id)
+[![Website](https://img.shields.io/badge/Website-blackberryhazard.biz.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blackberryhazard.biz.id)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/124333949)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackberryhazard-org)
 
@@ -14,9 +14,9 @@
 
 ## 🚀 Tentang Kami
 
-Selamat datang di **BlackberryHazard**! Kami adalah komunitas IT dan Gaming Indonesia yang bersemangat, dan organisasi GitHub ini adalah panggung kami untuk "bermain peran" sebagai perusahaan teknologi *open source* yang inovatif. Kami percaya bahwa kolaborasi adalah kunci untuk menciptakan solusi luar biasa, bahkan jika terkadang kami "malas ngoding" (tapi hasilnya tetap keren, kok! 😼).
+Selamat datang di **BlackberryHazard**! Kami adalah komunitas IT dan Gaming Indonesia yang bersemangat, dan organisasi GitHub ini adalah panggung kami untuk "bermain peran" sebagai perusahaan teknologi *open source* yang inovatif. Kami percaya bahwa kolaborasi adalah kunci untuk menciptakan solusi luar biasa, bahkan jika terkadang kami "malas ngoding".
 
-> _"Kode yang baik bukan hanya yang berjalan — tapi yang memberi MBG (Manfaat Bagi Generasi)."_
+> _"Kode yang baik bukan hanya yang berjalan — tapi yang memberi MBG😹."_
 
 ---
 
