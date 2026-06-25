@@ -1,17 +1,28 @@
-# 🌱💀 BlackberryHazard
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blackberryhazard-org/.github/main/blackberryhazard_banner.png" alt="BlackberryHazard Banner" width="100%">
+</div>
 
 <div align="center">
 
-**Kami malas ngoding😴 dan pura pura menjadi perusahaan🤓**
-
-[![Website](https://img.shields.io/badge/🌐_Website-blackberryhazard.biz.id-blue?style=flat-square)](https://blackberryhazard.biz.id)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/company/124333949)
+[![Website](https://img.shields.io/badge/🌐_Website-blackberryhazard.biz.id-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blackberryhazard.biz.id)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/124333949)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackberryhazard-org)
 
 </div>
 
 ---
 
-## 👥 Meet Our Teams
+## 🚀 Tentang Kami
+
+Selamat datang di **BlackberryHazard**! Kami adalah komunitas IT dan Gaming Indonesia yang bersemangat, dan organisasi GitHub ini adalah panggung kami untuk "bermain peran" sebagai perusahaan teknologi *open source* yang inovatif. Kami percaya bahwa kolaborasi adalah kunci untuk menciptakan solusi luar biasa, bahkan jika terkadang kami "malas ngoding" (tapi hasilnya tetap keren, kok! 😼).
+
+> _"Kode yang baik bukan hanya yang berjalan — tapi yang memberi MBG (Manfaat Bagi Generasi)."_
+
+---
+
+## 👥 Tim Kami
+
+Kami bangga dengan tim kontributor kami yang beragam dan berbakat. Setiap individu membawa keahlian unik untuk mendorong batas-batas inovasi.
 
 <p align="left">
   <a href="https://github.com/indra87g"><img src="https://avatars.githubusercontent.com/indra87g?size=40" width="40" title="indra87g" alt="indra87g" style="border-radius: 50%; margin: 2px;"/></a>
@@ -28,61 +39,60 @@
 
 ---
 
-## 👋 Tentang Kami
+## 🛠️ Teknologi Kami
 
-**BlackberryHazard** adalah komunitas IT dan Gaming Indonesia, dan ini adalah organisasi github komunitas kami yang dibuat sebagai tempat bagi para anggota komunitas untuk "roleplay" seolah kami adalah sebuah perusahaan teknologi open source😹👈
-
-> _"Kode yang baik bukan hanya yang berjalan — tapi yang memberi MBG."_
-
----
-
-## 🛠️ Tech Stack Kami
+Kami memanfaatkan berbagai teknologi modern untuk membangun proyek-proyek kami. Berikut adalah beberapa *tech stack* favorit kami:
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono.js-orange?style=for-the-badge&logo=hono&logoColor=white)
-![Next](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-purple?style=for-the-badge&logo=astro&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono.js-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Cara Berkontribusi
+## 🤝 Bergabung dan Berkontribusi
 
-Kami sangat terbuka untuk kontribusi dari siapa pun! Ikuti langkah berikut:
+Kami sangat terbuka untuk kontribusi dari siapa pun yang memiliki semangat yang sama! Baik Anda seorang *developer*, *designer*, *technical writer*, atau hanya ingin berbagi ide, kami menyambut Anda. Silakan baca panduan kontribusi kami untuk memulai:
 
-1. **Fork** repository yang ingin kamu kontribusikan
-2. **Buat branch** baru: `git checkout -b fitur/nama-fitur-kamu`
-3. **Commit** perubahanmu: `git commit -m 'feat: menambahkan fitur X'`
-4. **Push** ke branch: `git push origin fitur/nama-fitur-kamu`
-5. **Buka Pull Request** dan jelaskan perubahanmu
+📖 **[Panduan Kontribusi](CONTRIBUTING.md)**
 
-📖 Baca panduan lengkap di [CONTRIBUTING.md](./CONTRIBUTING.md) dan [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+Kami juga memiliki **[Kode Etik](CODE_OF_CONDUCT.md)** yang harus dipatuhi oleh semua anggota untuk menjaga lingkungan komunitas yang positif dan produktif.
 
 ---
 
 ## 📬 Hubungi Kami
 
+Ada pertanyaan, ide, atau ingin berkolaborasi? Jangan ragu untuk menghubungi kami!
+
 | Saluran | Kontak |
-|---------|--------|
-| 📧 Email Umum | cihuysomnia@proton.me |
-| 💼 Kemitraan | twinightwheel50@gmail.com |
+| :------ | :------- |
+| 📧 Email Umum | [cihuysomnia@proton.me](mailto:cihuysomnia@proton.me) |
+| 💼 Kemitraan | [twinightwheel50@gmail.com](mailto:twinightwheel50@gmail.com) |
+
+---
+
+## 🔒 Keamanan dan Dukungan
+
+Keamanan proyek kami adalah prioritas. Jika Anda menemukan kerentanan, harap laporkan melalui **[Kebijakan Keamanan](SECURITY.md)** kami. Untuk pertanyaan atau bantuan umum, kunjungi halaman **[Dukungan](SUPPORT.md)** kami.
 
 ---
 
 ## 📄 Lisensi
 
-Seluruh proyek kami menggunakan lisensi **MIT** kecuali disebutkan lain pada masing-masing repository. Lihat [LICENSE](./LICENSE) untuk detail.
+Seluruh proyek kami menggunakan lisensi **MIT** kecuali disebutkan lain pada masing-masing repositori. Detail lebih lanjut dapat ditemukan di **[LICENSE](LICENSE)**.
 
 ---
 
 <div align="center">
 
-Dibuat dengan ❤️ dari Indonesia 🇮🇩
+Made with ❤️ from Indonesia 🇮🇩
 
 </div>
